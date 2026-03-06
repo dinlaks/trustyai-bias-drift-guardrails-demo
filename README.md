@@ -1,8 +1,5 @@
-# Trustyai-Bias-Drift-Guardrails-Demos
-This repo contains demos based on Bias Monitoring, Drift Monitoring and Guardrails.
-
-# OpenDataHub TrustyAI Demos
-This repo contains a variety of demos showcasing TrustyAI's capabilities within OpenShift AI.
+# OpenShift AI - TrustyAI Demos
+This repository features a collection of demos highlighting TrustyAI’s capabilities within OpenShift AI, with a primary focus on Bias Monitoring, Drift Monitoring, and Guardrails.
 
 **Caveat**: These demos are tested and intended to work on OpenShift AI 2.25 and above
 
